@@ -7,6 +7,7 @@ public class Music {
 	private String Song;
 	private String Language;
 	public Music() {
+
 		super();
 		// TODO Auto-generated constructor stub
 	}
